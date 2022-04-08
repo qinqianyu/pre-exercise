@@ -1,6 +1,4 @@
-package cn.qqy.day0322;
-
-import org.w3c.dom.ls.LSOutput;
+package cn.qqy.base.day0322;
 
 /**
  * @author jxk

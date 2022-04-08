@@ -1,6 +1,6 @@
-package cn.qqy.day0322;
+package cn.qqy.base.day0322;
 
-import cn.qqy.day0316.Stu;
+import cn.qqy.base.day0316.Stu;
 
 /**
  * @author jxk

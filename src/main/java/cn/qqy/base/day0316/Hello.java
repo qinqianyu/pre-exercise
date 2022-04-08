@@ -1,10 +1,7 @@
-package cn.qqy.day0316;
-
-import cn.qqy.day0322.Inter1;
+package cn.qqy.base.day0316;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;
-import java.util.Arrays;
 
 public class Hello {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package cn.qqy.day0322;
+package cn.qqy.base.day0322;
 
 /**
  * @author jxk
